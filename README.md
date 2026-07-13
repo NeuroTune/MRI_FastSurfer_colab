@@ -1,4 +1,4 @@
- FastSurfer on Google Colab — Annotated Tutorial
+FastSurfer on Google Colab — Annotated Tutorial
 
 A walkthrough of the **FastSurfer** deep-learning MRI brain-segmentation
 pipeline, set up to run end-to-end in Google Colab.
@@ -18,4 +18,6 @@ MRI segmentation. See the notebook for the full tutorial.
 - Surface reconstruction (recon-surf) and QA tools
 
 ## Run it
-![Open In Colab](https://colab.research.google.com/github/NeuroTune/MRI_FastSurfer_colab/blob/main/Tutorial/Complete_FastSurfer_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuroTune/MRI_FastSurfer_colab/blob/main/Tutorial/Complete_FastSurfer_Tutorial.ipynb)
+
+
